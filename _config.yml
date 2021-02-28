@@ -11,11 +11,11 @@ baseurl: ''
 lang: en-US
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: America/Kentucky/Louisville
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Chirpy                          # the main title
+title: Ap3x                          # the main title
 
 tagline: A text-focused Jekyll theme   # it will display as the sub-title
 
@@ -25,12 +25,12 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: 'https://ap3x.github.io'
 
-author: your_full_name                  # change to your full name
+author: Noah Tongate                  # change to your full name
 
 github:
-  username: github_username             # change to your github username
+  username: Ap3x             # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
