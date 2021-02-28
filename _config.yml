@@ -15,9 +15,9 @@ timezone: America/Kentucky/Louisville
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # --------------------------
-title: Ap3x                          # the main title
+title: Ap3x Security                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Security Engineer, OSCP Certified, Wannabe Hacker, and Engineering Student   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -32,19 +32,19 @@ author: Noah Tongate                  # change to your full name
 github:
   username: Ap3x             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+linkedin:
+  username: noahtongate            # change to your twitter username
 
 social:
-  name: your_full_name                  # it will shows as the copyright owner in Footer
-  email: example@doamin.com             # change to your email address
+  name: Noah Tongate                  # it will shows as the copyright owner in Footer
+  email: noah.tongate@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/Ap3x       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/noahtongate
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 # --------------------------
@@ -81,14 +81,14 @@ theme_mode:   # [light|dark]
 img_cdn: ''
 
 # the avatar on sidebar, support local or CORS resources
-avatar: https://cdn.jsdelivr.net/gh/cotes2020/chirpy-images/commons/avatar.jpg
+avatar: /assets/img/profile/avatar.png
 
 # boolean type, the global switch for ToC in posts.
 toc: true
 
 disqus:
-  comments: false  # boolean type, the global switch for posts comments.
-  shortname: ''    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
+  comments: true  # boolean type, the global switch for posts comments.
+  shortname: 'blog-9jgepddjsv'    # Fill with your Disqus shortname. › https://help.disqus.com/en/articles/1717111-what-s-a-shortname
 
 paginate: 10
 
